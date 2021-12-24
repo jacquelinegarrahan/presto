@@ -1,0 +1,17 @@
+name: presto
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.8
+  - qtpy
+  - pyaudio
+  - numpy
+  - qt
+  - pyqt
+  - pyqtgraph
+  - pyopengl
+  - pip
+  - pip:
+    - opensimplex
+
