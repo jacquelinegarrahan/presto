@@ -1,0 +1,9 @@
+qtpy
+pyaudio
+wave
+numpy
+qt=5.12.5
+pyqt
+pyqtgraph
+pyopengl
+opensimplex
